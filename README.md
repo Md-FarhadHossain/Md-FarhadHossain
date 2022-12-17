@@ -1,5 +1,5 @@
-### Hi there 👋, Hi, I'm Farhad Hossain
-#### Full-Stack Developer | JavaScript | React | Express | MongoDB
+# Hi, I'm Farhad Hossain
+### Full-Stack Developer | JavaScript | React | Express | MongoDB
 ![Full-Stack Developer | JavaScript | React | Express | MongoDB](https://media.licdn.com/dms/image/D5616AQFBxPEorzXLUg/profile-displaybackgroundimage-shrink_350_1400/0/1670431166396?e=1676505600&v=beta&t=egUtSFK6satOT2IGP2a1zOLS6ludZ_YEcnoBisPn6CA)
 
 I am a self-motivated developer willing to learn and create great full-stack applications. As a self-taught Full stack developer, I can quickly adapt to new technologies and approaches and always look for ways to improve my skills and knowledge. I aim to use my skills and experience in MongoDB, Express.js, React.js, and Node.js to build high-quality and scalable web applications. I am committed to staying up-to-date with the latest technologies and best practices in web development and continuously improving my skills to provide value to my team and clients. I will consistently demonstrate my ability to learn quickly, work well in a team, and meet tight deadlines. I am eager to join a dynamic and collaborative development team where I can contribute my expertise and help to create innovative and effective solutions for real-world problems.
