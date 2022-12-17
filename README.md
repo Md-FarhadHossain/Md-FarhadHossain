@@ -1,4 +1,4 @@
-# Hi, I'm Farhad Hossain
+# <img src="assets/hello.gif" width="28px" alt="hi"> Hi, I'm Farhad Hossain
 ### Full-Stack Developer | JavaScript | React | Express | MongoDB
 ![Full-Stack Developer | JavaScript | React | Express | MongoDB](https://media.licdn.com/dms/image/D5616AQFBxPEorzXLUg/profile-displaybackgroundimage-shrink_350_1400/0/1670431166396?e=1676505600&v=beta&t=egUtSFK6satOT2IGP2a1zOLS6ludZ_YEcnoBisPn6CA)
 
