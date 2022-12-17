@@ -6,10 +6,8 @@ I am a self-motivated developer willing to learn and create great full-stack app
 
 Skills: ◉ HTML ◉ CSS ◉ Tailwind CSS ◉ Bootstrap ◉ Javascript ◉ React.js ◉ Node.js ◉ Express.js ◉ MongoDB ◉ Firebase
 
-- 🔭 I’m currently working on this page. 
+## Social Link: 
 
-
-[<img src='https://cdn-icons-png.flaticon.com/512/2111/2111292.png' alt='github' height='40'>](https://github.com/md-farhadhossain)
 [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384072.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-farhadhossain9/) 
 [<img src='https://cdn-icons-png.flaticon.com/512/747/747543.png' alt='facebook' height='40'>](https://www.facebook.com/janinah.url)
 [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384075.png' alt='twitter' height='40'>](https://twitter.com/farhad_Hossainn)
