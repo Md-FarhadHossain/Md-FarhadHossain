@@ -15,8 +15,8 @@ Skills: ◉ HTML ◉ CSS ◉ Tailwind CSS ◉ Bootstrap ◉ Javascript ◉ React
 [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384075.png' alt='twitter' height='40'>](https://twitter.com/farhad_Hossainn)
 [<img src='https://cdn-icons-png.flaticon.com/512/3059/3059997.png' alt='website' height='40'>](showwcase.com/farhad)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-farhadhossain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-farhadhossain&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
 ![Farhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-farhadhossain&theme=github_dark&show_icons=true)
