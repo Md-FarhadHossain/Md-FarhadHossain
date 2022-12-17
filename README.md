@@ -18,7 +18,8 @@ Skills: ◉ HTML ◉ CSS ◉ Tailwind CSS ◉ Bootstrap ◉ Javascript ◉ React
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-farhadhossain)](https://github.com/anuraghazra/github-readme-stats)
 
  
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=md-farhadhossain&show_icons=true&count_private=true))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-farhadhossain&theme=github_dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=md-farhadhossain&show_icons=true&count_private=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=md-farhadhossain)  
 
