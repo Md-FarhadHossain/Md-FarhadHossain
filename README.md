@@ -23,8 +23,6 @@ Skills: ◉ HTML ◉ CSS ◉ Tailwind CSS ◉ Bootstrap ◉ Javascript ◉ React
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=md-farhadhossain)  
 
-![GitHub metrics](https://metrics.lecoq.io/md-farhadhossain)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=md-farhadhossain&theme=github_dark)  
 
 
