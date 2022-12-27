@@ -38,6 +38,10 @@ Skills: ◉ HTML ◉ CSS ◉ Tailwind CSS ◉ Bootstrap ◉ Javascript ◉ React
 [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384075.png' alt='twitter' height='40'>](https://twitter.com/farhad_Hossainn)
 [<img src='https://cdn-icons-png.flaticon.com/512/3059/3059997.png' alt='website' height='40'>](https://showwcase.com/farhad) 
 
+### Socials
+                  
+                  <p align="left"> <a href="https://www.facebook.com/janinah.url/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/md-FarhadHossain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/md-farhadhossain9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Farhad_Hossainn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ## My Most Used Languages: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-farhadhossain&layout=compact&theme=github_dark)](https://github.com/md-FarhadHossain)
